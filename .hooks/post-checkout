@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo "SPC560Bxx NIL Demo Folders update"
+cp -fR *     ../../Components/nil/SPC560Bxx/NIL_Demos_for_SPC560Bxx/resources
+
+echo "SPC560Dxx NIL Demo Folders update"
+cp -fR *     ../../Components/nil/SPC560Dxx/NIL_Demos_for_SPC560Dxx/resources
+
+echo "SPC57EMxx_HSM NIL Demo Folders update"
+cp -fR *     ../../Components/nil/SPC57EMxx_HSM/NIL_Demos_for_SPC57EMxx_HSM/resources
+
