@@ -30,8 +30,8 @@
           <application_name>
             <value>out</value>
           </application_name>
-          <compiler_variant index="0">
-            <value>ppc-freevle-eabi-</value>
+          <compiler_variant>
+            <value>FreeGCC with VLE support</value>
           </compiler_variant>
           <optimization_level index="3">
             <value>-O2 speed</value>
