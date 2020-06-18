@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPC5-Config core_version="5.8.1" version="1.0.0">
+<SPC5-Config core_version="6.0" version="1.0.0">
   <application name="SPC560Dxx Test Application with NIL RTOS" version="1.0.0" standalone="true" locked="false">
     <description>Test application for the SPC560Dxx using NIL RTOS.</description>
     <component id="com.st.tools.spc5.components.platform.spc560dxx" version="2.0.0">
